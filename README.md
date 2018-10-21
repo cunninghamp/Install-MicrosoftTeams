@@ -16,9 +16,13 @@ Install-MicrosoftTeams.ps1 is a PowerShell script for automating the deployment 
 Using the example command above, the script will look in \\mgmt\installs\MicrosoftTeams for the Teams_Windows_x64.exe file, and launch a silent installation of the Teams client.
 
 ### Credits
+Written by: Paul Cunningham
 
-Written by: 
+Find me on:
 
-- Paul Cunningham, [Blog](http://practical365.com) | [GitHub](https://github.com/cunninghamp) | [Twitter](https://twitter.com/paulcunningham) 
+* My Blog:	https://paulcunningham.me
+* Twitter:	https://twitter.com/paulcunningham
+* LinkedIn:	https://au.linkedin.com/in/cunninghamp/
+* Github:	https://github.com/cunninghamp
 
-For more Office 365 tips, tutorials, and news check out [Practical 365](http://practical365.com).
+Check out my [books](https://paulcunningham.me/books/) and [courses](https://paulcunningham.me/training/) to learn more about Office 365 and Exchange Server.
