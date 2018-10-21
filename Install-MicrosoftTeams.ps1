@@ -22,16 +22,10 @@ Written by: Paul Cunningham
 
 Find me on:
 
-* My Blog:	http://paulcunningham.me
+* My Blog:	https://paulcunningham.me
 * Twitter:	https://twitter.com/paulcunningham
-* LinkedIn:	http://au.linkedin.com/in/cunninghamp/
+* LinkedIn:	https://au.linkedin.com/in/cunninghamp/
 * Github:	https://github.com/cunninghamp
-
-For more Office 365 tips, tricks and news
-check out Practical 365.
-
-* Website:	http://practical365.com
-* Twitter:	http://twitter.com/practical365
 
 Change Log
 V1.00, 15/03/2017 - Initial version
