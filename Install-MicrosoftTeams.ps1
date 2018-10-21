@@ -11,7 +11,6 @@ https://teams.microsoft.com/downloads
 .PARAMETER SourcePath
 Specifies the source path for the Microsoft Teams installer.
 
-
 .EXAMPLE
 .\Install-MicrosoftTeams.ps1 -Source \\mgmt\Installs\MicrosoftTeams
 
